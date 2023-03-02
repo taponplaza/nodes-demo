@@ -1,0 +1,15 @@
+{
+    "nodes": [
+        {"id": 1, "name": "Napoleon"},
+        {"id": 2, "name": "Myriel"},
+        {"id": 3, "name": "CountessdeLo"},
+        {"id": 4, "name": "Count"}
+        
+      ],
+      "links": [
+        {"source": 1, "target": 2},
+        {"source": 2, "target": 3},
+        {"source": 3, "target": 4},
+        {"source": 4, "target": 1}
+      ]
+  }
